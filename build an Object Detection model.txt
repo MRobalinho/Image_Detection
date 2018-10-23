@@ -1,0 +1,9 @@
+Getting Technical: How to build an Object Detection model using the ImageAI library
+
+https://www.analyticsvidhya.com/blog/2018/06/understanding-building-object-detection-model-python/
+
+Review of Deep Learning Algorithms for Object Detection
+https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852
+https://medium.com/comet-app/review-of-deep-learning-algorithms-for-image-classification-5fdbca4a05e2
+
+
